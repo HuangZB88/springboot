@@ -1,2 +1,2 @@
 # springboot
-This is a springboot demo repository
+This is the springboot repository
